@@ -1,3 +1,5 @@
 *-backups
 fabrication
 *.zip
+*.csv
+*.lck
